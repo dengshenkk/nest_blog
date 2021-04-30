@@ -4,6 +4,6 @@
     "PORT": 3306,
     "USERNAME": "root",
     "PASSWORD": "123456",
-    "DATABASE": "nest_blog"
+    "DATABASE": "nest_blog1"
   }
 }
