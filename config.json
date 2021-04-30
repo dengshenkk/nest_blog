@@ -1,0 +1,9 @@
+{
+  "DATABASE": {
+    "HOST": "localhost",
+    "PORT": 3306,
+    "USERNAME": "root",
+    "PASSWORD": "123456",
+    "DATABASE": "nest_blog"
+  }
+}
